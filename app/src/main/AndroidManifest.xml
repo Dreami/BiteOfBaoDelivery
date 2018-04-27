@@ -18,7 +18,10 @@
 
         </activity>
 
-        <activity android:name=".MainActivity" />
+        <activity android:name=".MainActivity"/>
+        <activity android:name=".PaymentActivity"/>
+        <activity android:name=".ReceiptActivity"/>
+        <activity android:name=".ThanksActivity"/>
     </application>
 
 </manifest>
